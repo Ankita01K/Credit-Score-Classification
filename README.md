@@ -11,4 +11,4 @@ There are three credit scores that banks and credit card companies use to label 
 3-Poor
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-In this project, I showcase my skills in creating and assessing machine learning models. The project's objective is to accurately predict a person's credit score by considering their financial background and personal details. I've executed the project within a Colab Notebook, using **Python** and well-known **machine learning libraries like NumPy, Pandas, Matplotlib, and Seaborn.** and evaluate several different machine learning models.
+In this project, I showcase my skills in creating and assessing machine learning models. The project's objective is to accurately predict a person's credit score by considering their financial background and personal details. I've executed the project within a Colab Notebook, using **Python** and well-known **machine learning libraries like NumPy, Pandas, Matplotlib, and Seaborn** and evaluate several different machine learning models.
